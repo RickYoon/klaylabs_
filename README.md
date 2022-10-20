@@ -15,3 +15,10 @@ In the Klaytn ecosystem, more than 60 DeFi projects and more than 100 NFT projec
 # Roadmap
 - DeFi data integration and visualization service (As-is)  
 - Integrated Data Manipulation Service (To-be)
+
+# How to start ?
+
+```sh
+npm install
+npm start
+```
